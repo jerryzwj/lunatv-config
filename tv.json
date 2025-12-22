@@ -3,7 +3,7 @@
     {
       "id": "e85f0636-4de3-406c-ae6c-3414539b1e6f",
       "key": "dnzzy",
-      "name": "AV-大奶子",
+      "name": "dlAV-大奶子",
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -18,7 +18,7 @@
     {
       "id": "b5dfef2f-b22b-4d43-862a-27c896ebe387",
       "key": "maotaizy",
-      "name": "TV-茅台资源",
+      "name": "dl-茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -33,7 +33,7 @@
     {
       "id": "8ab2549b-f1fa-4864-ab0f-0627a6aeeabe",
       "key": "caijidb",
-      "name": "TV-豆瓣资源",
+      "name": "dl-豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -48,7 +48,7 @@
     {
       "id": "6d900ca3-ced9-449c-b231-1e46f7e2f5d4",
       "key": "wolong",
-      "name": "TV-卧龙资源",
+      "name": "dl-卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -63,7 +63,7 @@
     {
       "id": "6e8e494b-77ba-41f1-9db5-fab88ebac726",
       "key": "aqyzy",
-      "name": "TV-爱奇艺",
+      "name": "dl-爱奇艺",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -78,7 +78,7 @@
     {
       "id": "7c7f32eb-3bab-4d6c-b0ca-576795257464",
       "key": "ckzy.me",
-      "name": "TV-CK资源",
+      "name": "dl-CK资源",
       "api": "https://ckzy.me/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -93,7 +93,7 @@
     {
       "id": "4ef1ab6b-43cc-4913-ba7d-76a85544c818",
       "key": "tyyszyapi",
-      "name": "TV-天涯影视",
+      "name": "dl-天涯影视",
       "api": "https://tyyszy.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -108,7 +108,7 @@
     {
       "id": "4d2b0004-2858-4330-84e6-2e2ebc9e6638",
       "key": "1080y",
-      "name": "TV-优质资源",
+      "name": "dl-优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "type": 2,
       "isActive": 1,
@@ -123,7 +123,7 @@
     {
       "id": "59eae38f-d30a-4727-92c2-51df64fb215f",
       "key": "ikun",
-      "name": "TV-iKun资源",
+      "name": "dl-iKun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -138,7 +138,7 @@
     {
       "id": "489a4758-3b09-43e6-b19f-70faa19f9017",
       "key": "ruyi",
-      "name": "TV-如意资源",
+      "name": "dl-如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -153,7 +153,7 @@
     {
       "id": "f5a5207c-6dcf-44e9-add0-288314c1b081",
       "key": "dyttzy",
-      "name": "TV-电影天堂",
+      "name": "dl-电影天堂",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -168,7 +168,7 @@
     {
       "id": "19a17940-da99-450b-a956-f3a6d718c479",
       "key": "myzy",
-      "name": "TV-猫眼资源",
+      "name": "dl-猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -183,7 +183,7 @@
     {
       "id": "83ac3ae4-5e72-406d-a897-940d36aaf463",
       "key": "collectwolongzy",
-      "name": "TV-卧龙资源1",
+      "name": "dl-卧龙资源1",
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -198,7 +198,7 @@
     {
       "id": "c61c4085-9d18-48ff-82c5-b0e33f27b88f",
       "key": "jisu",
-      "name": "TV-极速资源",
+      "name": "dl-极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -213,7 +213,7 @@
     {
       "id": "0d15f54e-e634-4583-ac1e-d005eed06da8",
       "key": "lzcaiji",
-      "name": "TV-量子资源",
+      "name": "dl-量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -228,7 +228,7 @@
     {
       "id": "db9657f0-6c40-4c6e-be78-4834d8b04c1a",
       "key": "lzi",
-      "name": "TV-量子资源",
+      "name": "dl-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -243,7 +243,7 @@
     {
       "id": "caba5ca5-1d66-4a76-8cd6-53a404117c21",
       "key": "zuidazy",
-      "name": "TV-最大点播",
+      "name": "dl-最大点播",
       "api": "https://zuidazy.me/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -258,7 +258,7 @@
     {
       "id": "90eeac9c-6465-4f47-b3b3-666a112a3f61",
       "key": "zy360",
-      "name": "TV-360资源",
+      "name": "dl-360资源",
       "api": "https://360zy.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -273,7 +273,7 @@
     {
       "id": "979a2146-c06e-4f8a-96ed-462bf780725b",
       "key": "mdzy",
-      "name": "TV-魔都资源",
+      "name": "dl-魔都资源",
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -288,7 +288,7 @@
     {
       "id": "2bfb4bd5-db43-4782-aac1-6954ef748259",
       "key": "ffzy",
-      "name": "TV-非凡影视",
+      "name": "dl-非凡影视",
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -303,7 +303,7 @@
     {
       "id": "307e632b-ef4c-4a68-aa44-067d5ede205b",
       "key": "mozhuazy",
-      "name": "TV-魔爪资源",
+      "name": "dl-魔爪资源",
       "api": "https://mozhuazy.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -318,7 +318,7 @@
     {
       "id": "7da4fc91-a7d7-4629-b347-b4b838157bd7",
       "key": "ffzy1",
-      "name": "TV-非凡资源",
+      "name": "dl-非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -333,7 +333,7 @@
     {
       "id": "94c49900-e31f-4c3e-9c55-93e6a2aaadd9",
       "key": "bfzy",
-      "name": "TV-暴风资源",
+      "name": "dl-暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -348,7 +348,7 @@
     {
       "id": "73060c11-f4a6-400a-8805-e0948ea19baa",
       "key": "kuaichezy",
-      "name": "TV-快车资源",
+      "name": "dl-快车资源",
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -363,7 +363,7 @@
     {
       "id": "7536fce6-0380-4cf2-8d73-39116a664018",
       "key": "wujin",
-      "name": "TV-无尽资源",
+      "name": "dl-无尽资源",
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -378,7 +378,7 @@
     {
       "id": "6713bd79-cd67-4bd0-b621-4f563525b583",
       "key": "zuid",
-      "name": "TV-最大资源",
+      "name": "dl-最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -393,7 +393,7 @@
     {
       "id": "77307b49-5187-4fe5-8787-1745e61c89e0",
       "key": "yinghua",
-      "name": "TV-樱花资源",
+      "name": "dl-樱花资源",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
@@ -408,7 +408,7 @@
     {
       "id": "7e6f1d48-b593-4c0b-96b1-c34f6df6a680",
       "key": "xinlangapi",
-      "name": "TV-新浪资源",
+      "name": "dl-新浪资源",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "type": 2,
       "isActive": 0,
@@ -423,7 +423,7 @@
     {
       "id": "51d1123d-b7ed-4c36-a2a1-dc319db41b4a",
       "key": "xsd_sdzyapi",
-      "name": "TV-索尼资源",
+      "name": "dl-索尼资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 0,
