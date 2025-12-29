@@ -3,8 +3,8 @@
     "id": "e85f0636-4de3-406c-ae6c-3414539b1e6f",
     "name": "AV-大奶子",
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "f544cae9-2109-45b4-a94d-e50ea947b7b8",
@@ -24,15 +24,15 @@
     "id": "027e2520-2555-4e29-97a4-b96dfd0c5dc8",
     "name": "代理🔞-大奶子-",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://apidanaizi.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "def84fc2-976c-4a04-a998-2ec694bdf269",
     "name": "代理🔞豆豆资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://api.douapi.cc/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "4bcaade8-ea8b-43c0-ac59-30bb19076d05",
@@ -59,22 +59,22 @@
     "id": "1c35d020-f34e-4d0d-8e45-5833776a096c",
     "name": "代理🔞桃花资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://thzy1.me/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "13662e50-67f9-4a7f-8308-aa58d20bc473",
     "name": "代理🔞香蕉资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://www.xiangjiaozyw.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "09ee4f94-8909-454e-9f22-156fcf7add10",
     "name": "代理🔞杏吧资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://xingba222.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "be3ab48d-2d60-464f-8ecc-ab971751deae",
@@ -94,8 +94,8 @@
     "id": "0a05807e-9479-4337-b7be-3443b946f0b0",
     "name": "代理🔞jkun资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://jkunzyapi.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "c63cd54c-558a-4ef1-98fe-ca11fbd43d72",
@@ -115,15 +115,15 @@
     "id": "9f80c65a-7dc9-43b6-a53b-5ec21e75c795",
     "name": "代理乃想想",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://Naixxzy.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "c0a07367-f583-4664-8800-1d59a00773c8",
     "name": "代理🔞黄色仓库",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://hsckzy.xyz/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "82e7866e-1aa3-4940-bf35-0db61c0a3de6",
@@ -150,8 +150,8 @@
     "id": "864a74c0-04bb-4e55-a7df-b26286f650ed",
     "name": "代理🔞精品资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://www.jingpinx.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "1eda4ae4-0f77-44b1-b426-1e98d7563d15",
@@ -164,15 +164,15 @@
     "id": "b3953d92-ff93-47e8-9d08-401c4469fa76",
     "name": "代理🔞91-精品-",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://91jpzyw.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "2fca7caf-76b7-429e-91cd-cb7740d74c00",
     "name": "代理🔞百万资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://api.bwzyz.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "aae25ea6-b0c8-46f7-8bad-a7c35a0f46cf",
@@ -185,15 +185,15 @@
     "id": "219f782e-46ec-4798-91a6-1b17afb05a3b",
     "name": "代理🔞细胞资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://www.xxibaozyw.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "eb6e4cb9-4d32-4d6c-aacb-257150a9f44c",
     "name": "代理🔞大地资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://dadiapi.com/feifei",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "97a6056b-06d3-407e-b1e6-c24961eb3903",
@@ -227,15 +227,15 @@
     "id": "c3a7b0ff-e5a2-440b-8717-76a0e8c61287",
     "name": "代理🔞-美少女-",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://www.msnii.com/api/json.php",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "489f519f-88bc-4f76-9d99-d8614352a479",
     "name": "代理🔞souavZY",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://api.souavzy.vip/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "197c97ec-bf27-4bf8-b72e-5180270efef5",
@@ -269,8 +269,8 @@
     "id": "a8199b7b-46c1-4170-bb7f-a67f83db3351",
     "name": "代理🔞小鸡资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://api.xiaojizy.live/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "a12fe97b-51d0-4b99-baa6-de5b8a12dd96",
@@ -283,8 +283,8 @@
     "id": "8d7705e3-d1ed-4a4d-8d7c-13c5b0a4cfe8",
     "name": "代理🔞玉兔资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://apiyutu.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "cb923dba-7c54-4794-8886-29d146d4ed3d",
@@ -297,43 +297,43 @@
     "id": "ff61cb56-e393-4b26-820a-4be8bc0dbaec",
     "name": "代理🔞乐播资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://lbapi9.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "47109c57-3da5-496c-9294-11e04216f578",
     "name": "代理🔞-黄AVZY",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://www.pgxdy.com/api/json.php",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "3415a5d0-39ea-465c-b988-1695d48f8ec2",
     "name": "代理🔞155-资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://155api.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "797c1c82-3c49-4ba1-acad-4b90e241c3c6",
     "name": "代理🔞森林资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://beiyong.slapibf.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "ec641121-8023-4fe4-96e5-6f9e2ec25cc7",
     "name": "代理🔞奶香资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://Naixxzy.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "2bc5e9a1-852b-4188-a615-7bc42472458b",
     "name": "代理🔞白嫖资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://www.kxgav.com/api/json.php",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "d3c968ea-4433-4d9d-ba98-de022942aa6f",
@@ -346,22 +346,22 @@
     "id": "1fa6daaf-eb5c-419d-a789-bd67af066099",
     "name": "代理香蕉代理",
     "baseUrl": "https://v.wenjunzhang.eu.org/-----https://www.xiangjiaozyw.com/index.php/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "8a174e72-8fd6-4aba-a045-89559b94dc7a",
     "name": "代理🔞优优资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://www.yyzywcj.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "c418c2e9-2d93-4014-95a5-2f67df8dd0af",
     "name": "代理🔞--AIvin-",
     "baseUrl": "https://pz.v88.qzz.io/?url=http://lbapiby.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "170d99ae-6976-4617-9db5-55cd6da44e0d",
@@ -381,22 +381,22 @@
     "id": "8ba65af0-d421-47bf-9404-6609bcfe360c",
     "name": "代理🔞-老色逼-",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://apilsbzy1.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "8cfae2d9-ab26-4af6-8d1d-e8becbd5e80a",
     "name": "代理🔞麻豆视频",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://91md.me/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "3cc8c625-8b10-45d2-a5ef-6e13572b1d6e",
     "name": "代理🔞黑料资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://www.heiliaozyapi.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "d52371b2-03ca-4432-a24b-645d65c99cef",
@@ -416,15 +416,15 @@
     "id": "20df75e5-6d3b-43b8-b0ff-74679763a3fa",
     "name": "代理🔞番号资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=http://fhapi9.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "b7848cd7-33c6-4d4c-83df-6d391dc7fb82",
     "name": "代理🔞滴滴资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://api.ddapi.cc/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "20191761-e67e-4488-be7c-42335b9c477e",
@@ -437,8 +437,8 @@
     "id": "3c571a9b-958d-4073-99f6-d2e0f4c92829",
     "name": "代理🔞-幸资源-",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://xzybb2.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "877ecfef-a577-4f94-b923-945db8c0e0c3",
@@ -458,8 +458,8 @@
     "id": "a88670d3-2a94-41d9-b2c3-dd2193f7b67e",
     "name": "代理🔞色猫资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "a4e30853-245d-4e55-bc42-ebc3236b10c7",
@@ -472,8 +472,8 @@
     "id": "00235592-20e1-4d55-9197-65d8ea217898",
     "name": "代理🔞鲨鱼资源",
     "baseUrl": "https://pz.v88.qzz.io/?url=https://shayuapi.com/api.php/provide/vod",
-    "group": "adult",
-    "enabled": true
+    "group": "normal",
+    "priority": 1
   },
   {
     "id": "92ef2d21-38f8-44ca-85bb-be8254740f52",
