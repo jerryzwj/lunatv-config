@@ -497,13 +497,6 @@
     "priority": 1
   },
   {
-    "id": "31491bff-b365-40fd-8525-76d7139ae801",
-    "name": "cms",
-    "baseUrl": "http://192.168.0.107:21006/cjapi/mc10/vod/json.html",
-    "group": "normal",
-    "priority": 1
-  },
-  {
     "id": "b5dfef2f-b22b-4d43-862a-27c896ebe387",
     "name": "TV-茅台资源",
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
