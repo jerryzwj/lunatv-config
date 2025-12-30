@@ -56,13 +56,6 @@
     "priority": 1
   },
   {
-    "id": "AV-xiangjiaozyw",
-    "name": "AV香蕉资源",
-    "baseUrl": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-    "group": "normal",
-    "priority": 1
-  },
-  {
     "id": "AV-xingba222",
     "name": "AV杏吧资源",
     "baseUrl": "https://xingba222.com/api.php/provide/vod",
@@ -164,13 +157,6 @@
     "id": "AV-bwzyz",
     "name": "AV百万资源",
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
-    "group": "normal",
-    "priority": 1
-  },
-  {
-    "id": "dl-xiangjiaozyw",
-    "name": "代理香蕉",
-    "baseUrl": "https://www.xiangjiaozyw.com/api.php/provide/vod",
     "group": "normal",
     "priority": 1
   },
@@ -290,13 +276,6 @@
     "id": "AV-lbapi9",
     "name": "AV乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-    "group": "normal",
-    "priority": 1
-  },
-  {
-    "id": "AV-pgxdy",
-    "name": "AV-黄AVZY",
-    "baseUrl": "https://www.pgxdy.com/api/json.php",
     "group": "normal",
     "priority": 1
   },
