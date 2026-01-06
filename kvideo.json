@@ -651,6 +651,13 @@
     "priority": 1
   },
   {
+    "id": "premium_source_1",
+    "name": "特殊资源",
+    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true
+  }
+  {
     "id": "sdzyapi",
     "name": "TV-索尼资源",
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
